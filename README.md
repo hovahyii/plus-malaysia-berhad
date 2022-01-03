@@ -117,4 +117,4 @@ MIT
 
 <br/>
 
-**This website is built with by ❤️‍🔥 Hovah!**
+**This website is built with ❤️‍🔥 by  Hovah!**
