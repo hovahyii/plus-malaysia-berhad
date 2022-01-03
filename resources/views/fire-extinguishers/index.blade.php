@@ -43,7 +43,7 @@
                                     <div class="font-semibold text-left">Type</div>
                                 </th>
                                  <th class="p-2 whitespace-nowrap">
-                                    <div class="font-semibold text-left">Weight</div>
+                                    <div class="font-semibold text-left">Weight (kg)</div>
                                 </th>
                                   <th class="p-2 whitespace-nowrap">
                                     <div class="font-semibold text-left">Brand</div>
