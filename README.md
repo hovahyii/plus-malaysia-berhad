@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Alpine.js-^3.0.6-lightblue?style=flat&logo=alpine.js)](https://alpinejs.dev/)
 
 ## Screenshot of the Program
-![ Screenshot.](https://github.com/hovahyii/plus-malaysia-berhad.git/public/storage/image/laravel.jpg)
+![ Screenshot.](https://github.com/hovahyii/plus-malaysia-berhad/tree/main/public/image/laravel.jpg)
 
 <br/>
 
